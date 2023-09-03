@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.header-logo {
+    width: 103px;
+    padding: 23px 7px;
+}
+.menuSection{
+    padding: 23px 7px;
+}
+/* --------------------------- */
+
+
+.bannerSection{
+    background-color: #f9f9ff;
+}
+
+.bannerSection a {
+    background-color: #8490ff;
+    color: #f9f9ff;
+    padding: 9px 13px;
+    border-radius: 5px;
+    margin-top: 35px;
+}
+.banner-content{
+    margin-top:166px ;
+}
+
+.banner-image {
+    margin-left: 60px;
+}
+/* -------------------------- */
+
+.personal-details {
+    padding-top: 70px;
+}
+
+.personal-details a {
+    background-color: #8490ff;
+    color: #f9f9ff;
+    padding: 9px 13px;
+    border-radius: 5px;
+    margin-left: 60px;
+    margin-top: 35px;
+    transition: .4s;
+    
+}
+
+.personal-details-content{
+    margin-left: 60px;
+}
+
+/* ----------------------------- */
+
+.price-list {
+    background-color: rgb(132, 144, 255);
+    padding: 120px;
+    margin-top: 80px;
+}
+.price-content{
+    color: #f9f9ff;
+    text-align: center;
+}
+.price-list p {
+   font-size:20px ;
+}
+
+.price-content h1{
+    font-weight: 700;
+}
+
+/* -------------------------------- */
+
+.app-using{
+    background-color: #f9f9ff;
+    padding: 35px;
+}
+.appSection h3 {
+    border-radius: 25px;
+    border: none;
+    padding: 20px;
+    width: 103px;
+    height: 104px;
+    background-color: #f9f9ff;
+    margin-left: 97px;
+}
+
+.appSection li {
+    line-height: 46px;
+}
+
+.appSection a {
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px;
+    color: #8490ff;
+}
+
+.appSection .card {
+    box-shadow: 1px 1px 9px -1px #8490ff;
+}
+/* ------------------------ */
+
+
+.teamSection{
+    position: relative;
+    margin-top: 55px;
+    padding-bottom: 25px;
+}
+
+.team-member {
+    position: absolute;
+    height: -9px;
+    width: 98px;
+    margin-: -62px;
+    margin: -68px -11px;
+}
+
+.teamSection .card {
+    box-shadow: 1px 2px 16px -5px;
+    padding: 25px;
+}
+
+.teamSection a {
+    box-shadow: 3px 2px 10px -5px;
+    color: black;
+    margin-top: 23px;
+    font-size: 22px;
+    padding: 5px 22px;
+}
+/* ------------------------- */
+
+
+.contactSection{
+    background-color: #f9f9ff;
+    height: 800px;
+}
+
+.contact-table{
+    background-color: #ffffff;
+}
+
+.inputItem {
+    padding: 11px 71px;
+}
+
+.inputItem a {
+    border-radius: 7px;
+    padding: 13px 26px;
+    background-color: #17a2b8;
+    display: inline-block;
+    margin-top: 45px;
+    color: white;
+    font-size: 20px;
+}
+
+.contact-address {
+    text-align: left;
+    margin: 122px 44px;
+  
+}
+
+.footerSection{
+    background-color:#04091e ;
+    color: #f9f9ff;
+}
