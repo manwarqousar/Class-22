@@ -137,3 +137,83 @@
     margin-bottom: 17px;
 }
 }
+
+@media(max-width:682px) {
+    .menu-list ul li a {
+        display: inline-block;
+        text-decoration: none;
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+        width: 117px;
+        justify-content: space-evenly;
+        color: rgb(0, 0, 0);
+        padding: 9px;
+        width: 103px;
+        margin-left: 0px;
+    }
+}
+
+@media(max-width:776px){
+    .appCard {
+        width: 365px;
+        height: 487px;
+        box-sizing: border-box;
+        box-shadow: rgb(199, 221, 242) 0px 9px 13px 2px;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        line-height: 38px;
+        margin-left: 170px;
+        margin-bottom: 2px;
+        margin-top: 45px;
+        margin: 0 auto;
+    }
+
+}
+
+@media(max-width:723px){
+    .teamMember {
+        text-align: center;
+        height: 328px;
+        box-shadow: rgb(199, 221, 242) 0px 9px 13px 2px;
+        margin-top: 100px;
+        margin-bottom: 50px;
+        padding-top: 61px;
+        position: relative;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 111px;
+    }
+}
+
+@media(max-width:722px){
+    
+    .appSection-header margin-top: 44px;
+
+
+    .form-text-right h2,h5 {
+        margin-top: 124px;
+        margin-left: 56px;
+        color: #212529;
+        font-size: 22px;
+    }
+
+    .footerText {
+        text-align: center;
+        margin: 0 auto;
+        color: #9d9a96;
+        background-color: #04091eed;
+        height: 86px;
+        margin-bottom: 2px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -31px;
+        font-size: 15px;
+        margin: 0 auto;
+    }
+    
+}
